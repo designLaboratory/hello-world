@@ -5,7 +5,7 @@
  *      Purpose: Microprocessors Laboratory
  *----------------------------------------------------------------------------
  *      
- *      Author: Pawel Russek AGH University of Science and Technology
+ *      Author: Seba
  *---------------------------------------------------------------------------*/
 
 #include "MKL46Z4.h"                    	/* Device header */
